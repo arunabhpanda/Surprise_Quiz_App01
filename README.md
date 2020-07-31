@@ -1,1 +1,1 @@
-# Surprise_Quiz_App
+# Surprise Quiz Application
